@@ -1,0 +1,96 @@
+1
+00:00:09,000 --> 00:00:12,500
+What is Signal Processing?
+
+2
+00:00:13,000 --> 00:00:22,000
+Signal Processing is a branch of electrical engineering 
+which pulls meaning from the broad sources of data that are all around us. 
+
+3
+00:00:22,900 --> 00:00:26,000
+But, what does that mean exactly? 
+
+4
+00:00:27,200 --> 00:00:31,500
+It means signal processing is at the heart of our modern world. 
+
+5
+00:00:33,700 --> 00:00:36,500
+Signal processing powers modern communications. 
+
+6
+00:00:37,000 --> 00:00:40,000
+[Voice recognition:] How can I help you? 
+
+7
+00:00:41,000 --> 00:00:44,000
+Modern entertainment  [Motion sensing gaming, MPEG & JPEG] 
+
+8
+00:00:45,300 --> 00:00:49,000
+and tomorrow’s transportation [Autonomous vehicles]
+
+9
+00:00:50,800 --> 00:00:54,000
+Signal processing is at the intersection of biotechnology [Biometric security]
+
+10
+00:00:54,500 --> 00:00:57,000
+voiceprint access: access granted. 
+
+11
+00:00:57,500 --> 00:01:01,500
+It’s in our social interactions. [Wearable Technology]
+
+12
+00:01:02,800 --> 00:01:07,000
+learning to anticipate our needs and emotions. [Brain/Computer Interfaces]
+
+13
+00:01:08,800 --> 00:01:12,800
+helping us hear the world around us 
+and to better understand it. [Hearing Aids]
+
+14
+00:01:13,000 --> 00:01:15,000
+سلام. چطوری؟ خوبی؟ (Speech synthesis)
+
+15
+00:01:15,500 --> 00:01:16,800
+Hi. How are you doing? 
+
+16
+00:01:16,900 --> 00:01:20,000
+to bring new life [Ultrasound Machines]
+
+17
+00:01:21,500 --> 00:01:25,000
+and help us heal [Better, safer medical scans]
+
+18
+00:01:25,500 --> 00:01:37,700
+Signal processing brings the world to our homes, [3D television]
+adds clarity and puts it in our pocket [Streaming Video]. 
+
+19
+00:01:38,700 --> 00:01:44,500
+Signal Processing documents our cherished memories [Affordable Photography]
+
+20
+00:01:45,600 --> 00:01:49,000
+helps to keep us safe [Radar/Sonar]
+
+21
+00:01:50,500 --> 00:01:55,000
+empowers the world of finance [Stock Valuation & Prediction]
+
+22
+00:01:58,000 --> 00:02:01,000
+Signal Processing, Processing the future
+
+23
+00:02:03,000 --> 00:02:07,000
+Subtitle by:
+Seyed Hamid Safavi, 
+University of Mohaghegh Ardabili (UMA)
